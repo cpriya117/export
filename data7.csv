@@ -1,0 +1,2 @@
+customerid,group,status,payorid,charge,procedure,billingprovidernpi,renderingprovidernpi,gepayerid,facilityname,facilitycity,facilitystate,dx
+282,FHS,AC,MOB1,104,78306,1679517023,1043525959,GEB00074P,FREEMAN HOSPITAL EAST O,facilitycity,MO,M13811
